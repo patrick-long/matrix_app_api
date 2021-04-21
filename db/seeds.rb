@@ -8,8 +8,8 @@
 
 
 Character.create([
-	{ name: "Neo", description: false },
-	{ name: "Trinity", description: false },
-	{ name: "Morpheus", description: false },
-	{ name: "Agent Smith", description: false },
+	{ name: "Neo", description: 'main char' },
+	{ name: "Trinity", description: 'idk' },
+	{ name: "Morpheus", description: 'another main' },
+	{ name: "Agent Smith", description: 'idk' },
 ])
